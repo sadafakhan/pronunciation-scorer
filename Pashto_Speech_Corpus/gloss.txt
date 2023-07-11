@@ -1,0 +1,41 @@
+
+1 - us: 
+2 - uspa: 	
+3 - patkay: turban
+4 - mumpalay: 
+5 - takht: platform, throne
+6 - taal: 
+7 - butyaray: 
+8 - wascut: 
+9 - koonji: 
+10 - zanzeer: 
+11 - gomannza:
+62 - sifer: 0 
+63 - yow: 1
+64 - dwa: 2
+65 - dray: 3
+66 - celour: 4
+67 - pinza: 5
+68 - shpeg: 6
+69 - ova: 7
+70 - ata: 8 
+71 - naha: 9
+72 - las: 10
+73 - yawlas: 11
+74 - dwlas: 12
+75 - dyarlas: 13 
+76 - swarlas: 14 
+77 - pinzalas: 15
+78 - shparlas: 16
+79 - ovlas: 17
+80 - atalas: 18
+81 - nolas: 19
+82 - shal: 20 
+83 - yawisht: 21
+84 - dwaisht: 22
+85 - draywisht: 23
+86 - saleerisht: 24
+87 - pinzeesht: 25
+88 - wana: 
+89 - storee: 
+90 - baboza: 
